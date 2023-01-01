@@ -2,7 +2,7 @@
 This repository has the source code of Music project
 
 
-Techmologies used:
+Technologies used:
 Angular
 HTML
 CSS
